@@ -1,4 +1,12 @@
-### Hi there 👋
+# Bem Vindo ao meu GitHub 👋
+
+### Meus Contatos
+
+[! [Emblema do Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/matheus-almeida-faria/)] (https://www.linkedin.com/in/matheus-almeida-faria/) [! [Gmail Badge] (https://img.shields.io/badge/- Gmail-c14438? Style = for-the-badge & logo = Gmail & logoColor = white & link = mailto: matheus.almeida.faria.almada@gmail.com)] (mailto: matheus.almeida.faria.almada@gmail.com)
+
+
+
+
 
 <!--
 **MatheusAlmeidaFariaAlmada/MatheusAlmeidaFariaAlmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
