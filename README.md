@@ -1,3 +1,16 @@
+<table>
+  <tr>
+    <td>
+      <a href="README_ingles.md" disabled>🇧🇷 Portuguese</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="README.md">🇺🇸 English</a>
+    </td>
+   </tr>
+</table> 
+
 # Bem Vindo ao meu GitHub 👋
 
 ### ✉️ Meus Contatos
