@@ -22,10 +22,11 @@
 ![](https://img.shields.io/badge/-SPRING%20TOOL-brightgreen)
 ![](https://img.shields.io/badge/-JAVA-red)
 ![](https://img.shields.io/badge/-SQL-blue)
-![](https://img.shields.io/badge/-HTML-orange)
-![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
-![](https://img.shields.io/badge/-CSS-blue)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <!--
 **MatheusAlmeidaFariaAlmada/MatheusAlmeidaFariaAlmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
